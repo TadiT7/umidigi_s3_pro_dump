@@ -1,0 +1,33 @@
+This SW Support Peripherals Lists As Follow :;
+Gsensor Lists :;
+bmi160 (2019-03-28 01:55:35);
+
+Msensor Lists :;
+qmc7983 (2019-03-27 21:26:33);
+
+Gyrsensor Lists :;
+bmi160 (2019-03-28 01:55:35);
+
+ALS/PS Lists :;
+vcnl36832 (2019-03-27 21:26:33);
+
+Lcd Lists :;
+FT8719_W632732IAA (2019-03-28 02:03:28);
+TC3315_W632752IAA (2019-03-28 02:03:28);
+
+TouchPanel Lists :;
+FOCALTECH_TS (2019-03-28 02:03:28);
+PARADE (2019-03-28 02:03:28);
+
+Carmera Lists :;
+imx586_mipi_raw (2019-03-29 10:33:33);
+s5k3m5_mipi_raw (2019-03-29 19:39:34);
+imx376_mipi_raw (2019-03-28 02:03:12);
+
+Carmera Version Lists :;
+imx586_mipi_raw@OFG_OF126A1_v00 (2019-04-12 11:23:50); s5k3m5_mipi_raw@OFG_OF127A1_v00 (2019-03-28 02:03:28); imx376_mipi_raw@YL_GS8857_v00 (2019-03-28 02:03:23); imx586_mipi_raw@OFG_OF126A1_v00 (2019-04-12 11:23:50); s5k3m5_mipi_raw@OFG_OF127A1_v00 (2019-03-28 02:03:28); imx376_mipi_raw@YL_GS8857_v00 (2019-03-28 02:03:23); imx586_mipi_raw@OFG_OF126A1_v00 (2019-04-12 11:23:50); s5k3m5_mipi_raw@OFG_OF127A1_v00 (2019-03-28 02:03:28); imx376_mipi_raw@YL_GS8857_v00 (2019-03-28 02:03:23); ;
+
+Memory Lists :;
+KM3H6001CM_B515 (2019-03-27-21:25:58);
+KM3V6001CM_B705 (2019-03-27-21:25:58);
+H9HP52AECMMDBR (2019-03-27-21:25:58);

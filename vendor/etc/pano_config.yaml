@@ -1,0 +1,15 @@
+main_fx: 2023.14
+main_fy: 2021.71
+main_cx: 1293.34
+main_cy: 952.152
+main_k1: -0.0329668
+main_k2: 0.112142
+main_p1: -0.0008809
+main_p2: 0.00186065
+main_k3: -0.088372
+st_prv_width: 274
+st_prv_height: 154
+st_prv_max_width: 800
+dbg_log: 1
+dbg_dump: 0
+
